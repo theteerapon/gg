@@ -8,8 +8,8 @@ check your nodejs version
 
 How to run ?
 ------
-- `git clone https://github.com/alfathdirk/LineAlphatJS.git`
-- `cd LineAlphatJS && npm install`
+- `git clone https://github.com/theteerapon/gg
+- `cd gg && npm install`
 - `npm start`
 
 
